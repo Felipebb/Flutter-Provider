@@ -1,16 +1,13 @@
-# provider_raiz
+# Provider_raiz
 
-A new Flutter project.
+Gerência de estado em flutter com o Provider
 
-## Getting Started
+## Comentários
 
-This project is a starting point for a Flutter application.
+Uma tela simples, para testar e ter uma base para a gerencia de estados em flutter com o Provider. Sendo ele mais um gerenciador de estados da aplicação em flutter, além de muitos outros existentes, achei importante pegar um projeto, com uma interação simples para demonstrar o seu uso, e ter como base para quem sabe em um futuro usar este tipo de gerencia ou pelo menos saber que ela é passivel de ser usada.
 
-A few resources to get you started if this is your first Flutter project:
+📎 Plugin [Provider](https://pub.dev/packages/provider)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Um exemplo do provider sendo implementado e explicado na própria documentação do flutter.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📎 https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
