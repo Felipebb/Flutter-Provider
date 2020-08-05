@@ -8,6 +8,6 @@ Uma tela simples, para testar e ter uma base para a gerencia de estados em flutt
 
 📎 Plugin [Provider](https://pub.dev/packages/provider)
 
-Um exemplo do provider sendo implementado e explicado na própria documentação do flutter:
+Um exemplo do provider sendo implementado e explicado na própria documentação do flutter :
 
 📎  [Documentação-Flutter](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
